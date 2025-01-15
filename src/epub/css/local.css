@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-% Letter styling taken from SEMoS 7.7
+/* Letter styling taken from SEMoS 7.7 */
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -28,4 +28,4 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
-# End of letter styling
+/* End of letter styling */
