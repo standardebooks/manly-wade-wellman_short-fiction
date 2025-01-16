@@ -52,3 +52,42 @@ footer{
 	font-style: italic;
 }
 /* End all epigraphs */
+
+[epub|type~="z3998:poem"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:poem"] p > span + br{
+	display: none;
+}
+
+[epub|type~="z3998:poem"] p + p{
+	margin-top: 1em;
+}
+
+p span.i10{
+	padding-left: 10em;
+	text-indent: -1em;
+}
+
+p span.i11{
+	padding-left: 11em;
+	text-indent: -1em;
+}
+
+p span.i12{
+	padding-left: 12em;
+	text-indent: -1em;
+}
+
+p span.i14{
+	padding-left: 14em;
+	text-indent: -1em;
+}
+
+p span.i17{
+	padding-left: 17em;
+	text-indent: -1em;
+}
