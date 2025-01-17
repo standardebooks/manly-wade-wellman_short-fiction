@@ -34,7 +34,6 @@
 		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
@@ -123,15 +122,35 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/brattons-idea.xhtml" id="brattons-idea.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/fearful-rock.xhtml" id="fearful-rock.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/half-around-pluto.xhtml" id="half-around-pluto.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/the-black-drama.xhtml" id="the-black-drama.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-devils-asteroid.xhtml" id="the-devils-asteroid.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-golgotha-dancers.xhtml" id="the-golgotha-dancers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hairy-ones-shall-dance.xhtml" id="the-hairy-ones-shall-dance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-invading-asteroid.xhtml" id="the-invading-asteroid.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/venus-enslaved.xhtml" id="venus-enslaved.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/warrior-of-two-worlds.xhtml" id="warrior-of-two-worlds.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="the-invading-asteroid.xhtml"/>
+		<itemref idref="the-golgotha-dancers.xhtml"/>
+                <itemref idref="the-hairy-ones-shall-dance.xhtml"/>
+		<itemref idref="the-black-drama.xhtml"/>
+		<itemref idref="fearful-rock.xhtml"/>
+		<itemref idref="brattons-idea.xhtml"/>
+		<itemref idref="the-devils-asteroid.xhtml"/>
+		<itemref idref="venus-enslaved.xhtml"/>
+		<itemref idref="warrior-of-two-worlds.xhtml"/>
+		<itemref idref="half-around-pluto.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
