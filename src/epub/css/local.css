@@ -59,6 +59,7 @@ footer{
 	text-indent: -1em;
 }
 
+/* Poetry */
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
@@ -90,4 +91,9 @@ p span.i14{
 p span.i17{
 	padding-left: 17em;
 	text-indent: -1em;
+}
+/* End poetry */
+
+q{
+	font-style: italic;
 }
