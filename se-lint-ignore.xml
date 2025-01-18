@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="the-black-drama.xhtml">
+		<ignore>
+			<code>t-029</code>
+			<reason>Lint incorrectly flags as abbreviations some periods followed by lowercase letters; these are intentional misspellings, and are not abbreviations.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
