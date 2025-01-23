@@ -2,31 +2,19 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Letter styling taken from SEMoS 7.7 */
-[epub|type~="z3998:letter"] header{
-	text-align: right;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p,
-[epub|type~="z3998:letter"] header + p{
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
 [epub|type~="z3998:sender"],
-[epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
-}
-
-[epub|type~="z3998:postscript"]{
-	margin-top: 1em;
-	text-align: initial;
-	text-indent: 0;
 }
 /* End of letter styling */
 
@@ -37,7 +25,6 @@ footer{
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] em,
 [epub|type~="epigraph"] i{
 	font-style: normal;
 }
@@ -53,19 +40,17 @@ footer{
 }
 /* End all epigraphs */
 
+/* Poetry */
+[epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
 	text-indent: -1em;
 }
 
-/* Poetry */
+[epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
-}
-
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
 }
 
 p span.i10{
@@ -78,13 +63,13 @@ p span.i11{
 	text-indent: -1em;
 }
 
-p span.i12{
-	padding-left: 12em;
-	text-indent: -1em;
+p span.i13{
+        padding-left: 13em;
+        text-indent: -1em;
 }
 
-p span.i14{
-	padding-left: 14em;
+p span.i15{
+	padding-left: 15em;
 	text-indent: -1em;
 }
 
@@ -96,4 +81,10 @@ p span.i17{
 
 q{
 	font-style: italic;
+}
+
+/* Force the signatures apart in Black Drama ch. 13 */
+#the-black-drama-13 table{
+	table-layout: fixed;
+	width: 100%;
 }
