@@ -28,18 +28,94 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Short Fiction</dc:title>
 		<meta property="file-as" refines="#title">Short Fiction</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Short Fiction</dc:subject>
+		<dc:subject id="subject-2">Science fiction</dc:subject>
+		<dc:subject id="subject-3">Fantasy fiction</dc:subject>
+		<dc:subject id="subject-4">Horror tales</dc:subject>
+		<dc:subject id="subject-5">War Stories</dc:subject>
+		<dc:subject id="subject-6">Adventure Stories</dc:subject>
+		<!-- The Invading Asteroid -->
+		<dc:subject id="subject-7">Martians -- Fiction</dc:subject>
+		<dc:subject id="subject-8">Space warfare -- Fiction</dc:subject>
+		<dc:subject id="subject-9">Human-alien encounters -- Fiction</dc:subject>
+		<!-- The Golgotha Dancers -->
+		<dc:subject id="subject-10">Art -- Fiction</dc:subject>
+		<!-- The Hairy Ones Shall Dance -->
+		<dc:subject id="subject-11">Werewolves -- Fiction</dc:subject>
+		<!-- The Black Drama -->
+		<dc:subject id="subject-12">Actors -- Fiction</dc:subject>
+		<dc:subject id="subject-13">Byron, George Gordon Byron, Baron, 1788-1824 -- Fiction</dc:subject>
+		<!-- Fearful Rock -->
+		<dc:subject id="subject-14">United States -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
+		<dc:subject id="subject-15">Ozark Mountains -- Fiction</dc:subject>
+		<!-- Bratton's Idea -->
+		<dc:subject id="subject-16">Man-woman relationships -- Fiction</dc:subject>
+		<dc:subject id="subject-17">Robots -- Fiction</dc:subject>
+		<dc:subject id="subject-18">Inventions -- Fiction</dc:subject>
+		<dc:subject id="subject-19">Los Angeles (Calif.) -- Fiction</dc:subject>
+		<!-- Venus Enslaved -->
+		<dc:subject id="subject-20">Space colonies -- Fiction</dc:subject>
+		<dc:subject id="subject-21">Venus (Planet) -- Fiction</dc:subject>
+		<!-- Warrior of two worlds -->
+		<dc:subject id="subject-22">Prophecies -- Fiction</dc:subject>
+		<!-- Half Around Pluto -->
+		<dc:subject id="subject-23">Survival -- Fiction</dc:subject>
+		<dc:subject id="subject-24">Pluto (Dwarf planet) -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">LCSH_ID_1</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">LCSH_ID_2</meta>
+		<meta property="term" refines="#subject-2">sh85118629</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85047114</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85062084</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85145220</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh85001072</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">sh2008112008</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">sh2008105650</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">sh2008113446</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2007100547</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">sh2007100014</meta>
+		<meta property="authority" refines="#subject-15">LCSH</meta>
+		<meta property="term" refines="#subject-15">sh2008108645</meta>
+		<meta property="authority" refines="#subject-16">LCSH</meta>
+		<meta property="term" refines="#subject-16">sh2008107175</meta>
+		<meta property="authority" refines="#subject-17">LCSH</meta>
+		<meta property="term" refines="#subject-17">sh2008110972</meta>
+		<meta property="authority" refines="#subject-18">LCSH</meta>
+		<meta property="term" refines="#subject-18">Unknown</meta>
+		<meta property="authority" refines="#subject-19">LCSH</meta>
+		<meta property="term" refines="#subject-19">sh2008106612</meta>
+		<meta property="authority" refines="#subject-20">LCSH</meta>
+		<meta property="term" refines="#subject-20">sh2008111729</meta>
+		<meta property="authority" refines="#subject-21">LCSH</meta>
+		<meta property="term" refines="#subject-21">Unknown</meta>
+		<meta property="authority" refines="#subject-22">LCSH</meta>
+		<meta property="term" refines="#subject-22">sh2010108649</meta>
+		<meta property="authority" refines="#subject-23">LCSH</meta>
+		<meta property="term" refines="#subject-23">sh2010114096</meta>
+		<meta property="authority" refines="#subject-24">LCSH</meta>
+		<meta property="term" refines="#subject-24">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Horror and Science Fiction stories by Manly Wade Wellman, from the pulp magazines.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/manly-wade-wellman"&gt;Manly Wade Wellman&lt;/a&gt; was an American writer of Fantasy, Horror, and Science Fiction, writing extensively for the pulp magazines of the day. He became known for his “Occult Detective” fiction, featuring recurring characters such as Judge Pursuivant and John Thunstone, and for the stories of John the Balladeer, set in Appalachia and based on its folklore.&lt;/p&gt;
+			&lt;p&gt;This collection is largely taken from stories written for &lt;i&gt;Weird Tales&lt;/i&gt;, &lt;i&gt;Comet&lt;/i&gt;, and &lt;i&gt;Planet Stories&lt;/i&gt; between 1935 and 1958. It covers both his Horror/Fantasy and Science Fiction work. A civil war patrol stumbles onto a rural family cult; the first explorers of venus find decendents of humans already there for centuries; a strange, charismatic man produces the manuscript for a Byron play long thought lost; an L.A. ventriloquist gives up his partner only to find the decision brings unintended consequences.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- The Invading Asteroid -->
@@ -78,20 +154,18 @@
 		<!-- Half Around Pluto -->
 		<dc:source>https://www.gutenberg.org/ebooks/60595</dc:source>
 		<dc:source>https://archive.org/details/1958-12_IF/page/90</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/manly-wade-wellman_short-fiction</meta>
 		<dc:creator id="author">Manly Wade Wellman</dc:creator>
 		<meta property="file-as" refines="#author">Wellman, Manly Wade</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Manly_Wade_Wellman</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79099330</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Magnus Enckell</dc:contributor>
+		<meta property="file-as" refines="#artist">Enckell, Magnus</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Magnus_Enckell</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n00089946</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<!-- All 10 stories -->
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
@@ -110,9 +184,8 @@
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Galen Hazelwood</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Hazelwood, Galen</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
