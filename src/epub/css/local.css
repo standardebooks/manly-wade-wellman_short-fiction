@@ -53,29 +53,8 @@ footer{
 	display: none;
 }
 
-p span.i10{
-	padding-left: 10em;
-	text-indent: -1em;
-}
-
-p span.i11{
-	padding-left: 11em;
-	text-indent: -1em;
-}
-
-p span.i13{
-	padding-left: 13em;
-	text-indent: -1em;
-}
-
-p span.i15{
-	padding-left: 15em;
-	text-indent: -1em;
-}
-
-p span.i17{
-	padding-left: 17em;
-	text-indent: -1em;
+.dl2 span:first-child{
+	vertical-align: 100%;
 }
 /* End poetry */
 
