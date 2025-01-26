@@ -40,6 +40,19 @@ footer{
 }
 /* End all epigraphs */
 
+/* Epigraphs in section headers */
+article > header [epub|type~="epigraph"]{
+	display: inline-block;
+	margin: auto;
+	max-width: 80%;
+	text-align: initial;
+}
+
+article > header [epub|type~="epigraph"] + *{
+	margin-top: 3em;
+}
+/* End epigraphs in section headers */
+
 /* Poetry */
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
