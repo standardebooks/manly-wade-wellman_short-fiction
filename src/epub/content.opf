@@ -164,6 +164,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Magnus Enckell</dc:contributor>
 		<meta property="file-as" refines="#artist">Enckell, Magnus</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Knut Magnus Enckell</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Magnus_Enckell</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n00089946</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
