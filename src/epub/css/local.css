@@ -71,6 +71,12 @@ q{
 	font-style: italic;
 }
 
+/* Compact the list in Hairy Ones */
+ol ol{
+	margin-bottom: 0;
+	margin-top: 0;
+}
+
 /* Force the signatures apart in Black Drama ch. 13 */
 #the-black-drama-13 table{
 	table-layout: fixed;
