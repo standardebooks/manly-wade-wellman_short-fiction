@@ -76,3 +76,16 @@ q{
 	table-layout: fixed;
 	width: 100%;
 }
+
+/* Center and format the blockquotes in Fearful Rock */
+#fearful-rock blockquote{
+	text-align: center;
+}
+
+#fearful-rock blockquote > * + p{
+	text-indent: 0;
+}
+
+#fearful-rock-9 blockquote{
+	font-variant: small-caps;
+}
