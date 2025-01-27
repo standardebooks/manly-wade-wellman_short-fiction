@@ -47,10 +47,6 @@ article > header [epub|type~="epigraph"]{
 	max-width: 80%;
 	text-align: initial;
 }
-
-article > header [epub|type~="epigraph"] + *{
-	margin-top: 3em;
-}
 /* End epigraphs in section headers */
 
 /* Poetry */
