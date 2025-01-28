@@ -77,18 +77,22 @@ ol ol{
 	margin-top: 0;
 }
 
-/* Force the signatures apart in Black Drama ch. 13 */
-#the-black-drama-13 blockquote > footer > div{
+/* Format the signatures in the book contract, Black Drama ch. 13 */
+#the-black-drama-13 blockquote:first-of-type > footer{
 	display: table;
-	width: 100%;
+	margin-left: auto;
 }
 
-#the-black-drama-13 blockquote > footer > div > div{
+#the-black-drama-13 blockquote:first-of-type > footer p{
 	display: table-row;
 }
 
-#the-black-drama-13 blockquote > footer > div > div > p{
+#the-black-drama-13 blockquote:first-of-type > footer p:nth-child(n+2){
 	display: table-cell;
+}
+
+#the-black-drama-13 blockquote:first-of-type > footer p:last-child{
+	padding-left: 2em;
 }
 
 /* Center and format the blockquotes in Fearful Rock */
