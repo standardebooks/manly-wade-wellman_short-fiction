@@ -78,9 +78,17 @@ ol ol{
 }
 
 /* Force the signatures apart in Black Drama ch. 13 */
-#the-black-drama-13 table{
-	table-layout: fixed;
+#the-black-drama-13 blockquote > footer > div{
+	display: table;
 	width: 100%;
+}
+
+#the-black-drama-13 blockquote > footer > div > div{
+	display: table-row;
+}
+
+#the-black-drama-13 blockquote > footer > div > div > p{
+	display: table-cell;
 }
 
 /* Center and format the blockquotes in Fearful Rock */
