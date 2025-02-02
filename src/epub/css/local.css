@@ -47,6 +47,12 @@ article > header [epub|type~="epigraph"]{
 	max-width: 80%;
 	text-align: initial;
 }
+
+@supports(display: table){
+	article > header [epub|type~="epigraph"]{
+		display: table;
+	}
+}
 /* End epigraphs in section headers */
 
 /* Poetry */
@@ -106,4 +112,9 @@ ol ol{
 
 #fearful-rock-9 blockquote{
 	font-variant: small-caps;
+}
+
+/* Center the blockquote in Coven chapter 4 */
+#coven-4 blockquote{
+	text-align: center;
 }
