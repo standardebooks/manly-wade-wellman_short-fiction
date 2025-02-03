@@ -118,3 +118,8 @@ ol ol{
 #coven-4 blockquote{
 	text-align: center;
 }
+
+/* Center the first story blockquote in The Dreadful Rabbits */
+#the-dreadful-rabbits blockquote:first-of-type{
+	text-align: center;
+}
