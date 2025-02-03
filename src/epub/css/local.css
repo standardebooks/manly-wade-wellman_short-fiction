@@ -120,6 +120,6 @@ ol ol{
 }
 
 /* Center the first story blockquote in The Dreadful Rabbits */
-#the-dreadful-rabbits blockquote:first-of-type{
+#the-dreadful-rabbits blockquote:not([epub|type~="epigraph"]):first-of-type{
 	text-align: center;
 }
