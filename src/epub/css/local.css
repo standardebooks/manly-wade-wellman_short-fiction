@@ -55,7 +55,15 @@ article > header [epub|type~="epigraph"]{
 }
 /* End epigraphs in section headers */
 
-/* Poetry */
+/* Poetry and other verse */
+[epub|type~="z3998:poem"] p,
+[epub|type~="z3998:song"] p,
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:song"] p > span,
 [epub|type~="z3998:verse"] p > span{
 	display: block;
@@ -63,9 +71,15 @@ article > header [epub|type~="epigraph"]{
 	text-indent: -1em;
 }
 
+[epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:song"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
 }
 
 .dl2 span:first-child{
