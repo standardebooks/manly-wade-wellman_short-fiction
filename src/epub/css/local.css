@@ -2,16 +2,22 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Letter styling taken from SEMoS 7.7 */
+[epub|type~="z3998:letter"] header{
+	text-align: right;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
 }
 
-[epub|type~="z3998:salutation"] + p{
+[epub|type~="z3998:salutation"] + p,
+[epub|type~="z3998:letter"] header + p{
 	text-indent: 0;
 }
 
 [epub|type~="z3998:sender"],
+[epub|type~="z3998:recipient"],
 [epub|type~="z3998:salutation"],
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
@@ -126,6 +132,12 @@ ol ol{
 
 #fearful-rock-9 blockquote{
 	font-variant: small-caps;
+}
+
+/* Same for the first blockquote in Valley */
+#the-valley-was-still blockquote:first-of-type{
+	font-variant: small-caps;
+	text-align: center;
 }
 
 /* Center the blockquote in Coven chapter 4 */
