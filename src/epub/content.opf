@@ -112,6 +112,7 @@
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of horror and science fiction stories by Manly Wade Wellman.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/manly-wade-wellman"&gt;Manly Wade Wellman&lt;/a&gt; was an American writer of fantasy, horror, and science fiction, writing extensively for the pulp magazines of the day. He became known for his “Occult Detective” fiction, featuring recurring characters like Judge Pursuivant and John Thunstone, and for the stories of John the Balladeer, set in Appalachia and based on its folklore.&lt;/p&gt;
