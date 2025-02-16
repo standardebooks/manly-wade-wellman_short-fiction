@@ -19,6 +19,11 @@ footer{
 }
 /* End of letter styling */
 
+/* Special workaround for lint in the first letter in Valley */
+#the-valley-was-still blockquote:nth-of-type(2) > p:nth-of-type(2){
+	text-indent: 0;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
