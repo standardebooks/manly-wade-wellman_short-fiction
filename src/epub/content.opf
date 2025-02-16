@@ -179,7 +179,7 @@
 		<!-- Half Around Pluto (p. 90) -->
 		<dc:source>https://www.gutenberg.org/ebooks/60595</dc:source>
 		<dc:source>https://archive.org/details/1958-12_IF</dc:source>
-		<meta property="se:word-count">198209</meta>
+		<meta property="se:word-count">198210</meta>
 		<meta property="se:reading-ease.flesch">75.61</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/manly-wade-wellman_short-fiction</meta>
 		<dc:creator id="author">Manly Wade Wellman</dc:creator>
