@@ -185,12 +185,12 @@
 		<dc:creator id="author">Manly Wade Wellman</dc:creator>
 		<meta property="file-as" refines="#author">Wellman, Manly Wade</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Manly_Wade_Wellman</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79099330</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79099330</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Umberto Boccioni</dc:contributor>
 		<meta property="file-as" refines="#artist">Boccioni, Umberto</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Umberto_Boccioni</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n79054518</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79054518</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<!-- All 10 stories -->
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
