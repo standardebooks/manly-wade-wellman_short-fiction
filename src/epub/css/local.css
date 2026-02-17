@@ -149,3 +149,9 @@ ol ol{
 #the-dreadful-rabbits blockquote:not([epub|type~="epigraph"]):first-of-type{
 	text-align: center;
 }
+
+/* Headers in Back to the Beast */
+#back-to-the-beast header{
+	margin-bottom: 1.5em;
+	margin-top: 3em;
+}
