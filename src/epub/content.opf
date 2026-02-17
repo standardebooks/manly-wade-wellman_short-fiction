@@ -62,6 +62,9 @@
 		<!-- Half Around Pluto -->
 		<dc:subject id="subject-23">Survival -- Fiction</dc:subject>
 		<dc:subject id="subject-24">Pluto (Dwarf planet) -- Fiction</dc:subject>
+		<!-- All Were Monsters -->
+		<dc:subject id="subject-25">Science fiction -- Periodicals</dc:subject>
+		<dc:subject id="subject-26">Science fiction, American -- Periodicals</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
@@ -110,6 +113,10 @@
 		<meta property="term" refines="#subject-23">sh2010114096</meta>
 		<meta property="authority" refines="#subject-24">LCSH</meta>
 		<meta property="term" refines="#subject-24">Unknown</meta>
+		<meta property="authority" refines="#subject-25">LCHS</meta>
+		<meta property="term" refines="#subject-25">Unknown</meta>
+		<meta property="authority" refines="#subject-26">LCHS</meta>
+		<meta property="term" refines="#subject-26">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
@@ -120,6 +127,8 @@
 			&lt;p&gt;This collection is largely taken from stories written for &lt;i&gt;Weird Tales&lt;/i&gt;, &lt;i&gt;Comet&lt;/i&gt;, and &lt;i&gt;Planet Stories&lt;/i&gt; between 1932 and 1958, and covers Wellman’s horror and science fiction work. In it we have stories in which a civil war patrol stumbles onto a rural family cult; the first explorers of Venus discover that descendants of humans have been living there for centuries; a strange, charismatic man produces the manuscript for a Byron play long thought lost; and an L.A. ventriloquist gives up his partner, only to find the decision brings unintended consequences.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
+		<!-- Back to the Beast (p. 634) -->
+		<dc:source>https://archive.org/details/Weird_Tales_v10n05_1927-11_AT-sas</dc:source>
 		<!-- The Invading Asteroid -->
 		<dc:source>https://www.gutenberg.org/ebooks/72854</dc:source>
 		<dc:source>https://archive.org/details/wellman-manly-wade-science-fiction-series-15-the-invading-asteroid_202110</dc:source>
@@ -177,6 +186,9 @@
 		<!-- Warrior of Two Worlds (p. 74) -->
 		<dc:source>https://www.gutenberg.org/ebooks/63097</dc:source>
 		<dc:source>https://archive.org/details/Planet_Stories_v02n07_1944-Summer_EXciter-dtsg0318</dc:source>
+		<!-- All Were Monsters (p. 102) -->
+		<dc:source>https://www.gutenberg.org/ebooks/77940</dc:source>
+		<dc:source>https://archive.org/details/FantasticUniverseV03n04195505ATLPM</dc:source>
 		<!-- Half Around Pluto (p. 90) -->
 		<dc:source>https://www.gutenberg.org/ebooks/60595</dc:source>
 		<dc:source>https://archive.org/details/1958-12_IF</dc:source>
@@ -222,6 +234,11 @@
 		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
 		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
+		<dc:contributor id="producer-3">Hendrik Kaiber</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Kaiber, Hendrik</meta>
+		<meta property="se:name.person.full-name" refines="#producer-3">Hendrik de Wetterle Bonow Kaiber</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
