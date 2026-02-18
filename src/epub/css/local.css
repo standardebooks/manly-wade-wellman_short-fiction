@@ -155,3 +155,16 @@ ol ol{
 	margin-bottom: 1.5em;
 	margin-top: 3em;
 }
+
+#back-to-the-beast header p{
+	font-style: italic;
+}
+
+#back-to-the-beast header p i{
+	font-style: normal;
+}
+
+#back-to-the-beast p:last-of-type,
+#back-to-the-beast p:nth-last-of-type(11){
+	font-style: italic;
+}
