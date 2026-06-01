@@ -113,9 +113,9 @@
 		<meta property="term" refines="#subject-23">sh2010114096</meta>
 		<meta property="authority" refines="#subject-24">LCSH</meta>
 		<meta property="term" refines="#subject-24">Unknown</meta>
-		<meta property="authority" refines="#subject-25">LCHS</meta>
+		<meta property="authority" refines="#subject-25">LCSH</meta>
 		<meta property="term" refines="#subject-25">Unknown</meta>
-		<meta property="authority" refines="#subject-26">LCHS</meta>
+		<meta property="authority" refines="#subject-26">LCSH</meta>
 		<meta property="term" refines="#subject-26">Unknown</meta>
 		<meta property="se:subject">Horror</meta>
 		<meta property="se:subject">Science Fiction</meta>
