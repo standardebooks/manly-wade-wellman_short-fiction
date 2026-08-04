@@ -122,7 +122,7 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of horror and science fiction stories by Manly Wade Wellman.</dc:abstract>
+		<meta property="schema:abstract">A collection of horror and science fiction stories by Manly Wade Wellman.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/manly-wade-wellman"&gt;Manly Wade Wellman&lt;/a&gt; was an American writer of fantasy, horror, and science fiction, writing extensively for the pulp magazines of the day. He became known for his “Occult Detective” fiction, featuring recurring characters like Judge Pursuivant and John Thunstone, and for the stories of John the Balladeer, set in Appalachia and based on its folklore.&lt;/p&gt;
 			&lt;p&gt;This collection is largely taken from stories written for &lt;i&gt;Weird Tales&lt;/i&gt;, &lt;i&gt;Comet&lt;/i&gt;, and &lt;i&gt;Planet Stories&lt;/i&gt; between 1932 and 1958, and covers Wellman’s horror and science fiction work. In it we have stories in which a civil war patrol stumbles onto a rural family cult; the first explorers of Venus discover that descendants of humans have been living there for centuries; a strange, charismatic man produces the manuscript for a Byron play long thought lost; and an L.A. ventriloquist gives up his partner, only to find the decision brings unintended consequences.&lt;/p&gt;
