@@ -37,35 +37,35 @@
 		<dc:subject id="subject-5">War Stories</dc:subject>
 		<dc:subject id="subject-6">Adventure Stories</dc:subject>
 		<!-- The Invading Asteroid -->
-		<dc:subject id="subject-7">Martians -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Space warfare -- Fiction</dc:subject>
-		<dc:subject id="subject-9">Human-alien encounters -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Martians--Fiction</dc:subject>
+		<dc:subject id="subject-8">Space warfare--Fiction</dc:subject>
+		<dc:subject id="subject-9">Human-alien encounters--Fiction</dc:subject>
 		<!-- The Golgotha Dancers -->
-		<dc:subject id="subject-10">Art -- Fiction</dc:subject>
+		<dc:subject id="subject-10">Art--Fiction</dc:subject>
 		<!-- The Hairy Ones Shall Dance -->
-		<dc:subject id="subject-11">Werewolves -- Fiction</dc:subject>
+		<dc:subject id="subject-11">Werewolves--Fiction</dc:subject>
 		<!-- The Black Drama -->
-		<dc:subject id="subject-12">Actors -- Fiction</dc:subject>
-		<dc:subject id="subject-13">Byron, George Gordon Byron, Baron, 1788-1824 -- Fiction</dc:subject>
+		<dc:subject id="subject-12">Actors--Fiction</dc:subject>
+		<dc:subject id="subject-13">Byron, George Gordon Byron, Baron, 1788-1824--Fiction</dc:subject>
 		<!-- Fearful Rock -->
-		<dc:subject id="subject-14">United States -- History -- Civil War, 1861-1865 -- Fiction</dc:subject>
-		<dc:subject id="subject-15">Ozark Mountains -- Fiction</dc:subject>
+		<dc:subject id="subject-14">United States--History--Civil War, 1861-1865--Fiction</dc:subject>
+		<dc:subject id="subject-15">Ozark Mountains--Fiction</dc:subject>
 		<!-- Bratton's Idea -->
-		<dc:subject id="subject-16">Man-woman relationships -- Fiction</dc:subject>
-		<dc:subject id="subject-17">Robots -- Fiction</dc:subject>
-		<dc:subject id="subject-18">Inventions -- Fiction</dc:subject>
-		<dc:subject id="subject-19">Los Angeles (Calif.) -- Fiction</dc:subject>
+		<dc:subject id="subject-16">Man-woman relationships--Fiction</dc:subject>
+		<dc:subject id="subject-17">Robots--Fiction</dc:subject>
+		<dc:subject id="subject-18">Inventions--Fiction</dc:subject>
+		<dc:subject id="subject-19">Los Angeles (Calif.)--Fiction</dc:subject>
 		<!-- Venus Enslaved -->
-		<dc:subject id="subject-20">Space colonies -- Fiction</dc:subject>
-		<dc:subject id="subject-21">Venus (Planet) -- Fiction</dc:subject>
+		<dc:subject id="subject-20">Space colonies--Fiction</dc:subject>
+		<dc:subject id="subject-21">Venus (Planet)--Fiction</dc:subject>
 		<!-- Warrior of two worlds -->
-		<dc:subject id="subject-22">Prophecies -- Fiction</dc:subject>
+		<dc:subject id="subject-22">Prophecies--Fiction</dc:subject>
 		<!-- Half Around Pluto -->
-		<dc:subject id="subject-23">Survival -- Fiction</dc:subject>
-		<dc:subject id="subject-24">Pluto (Dwarf planet) -- Fiction</dc:subject>
+		<dc:subject id="subject-23">Survival--Fiction</dc:subject>
+		<dc:subject id="subject-24">Pluto (Dwarf planet)--Fiction</dc:subject>
 		<!-- All Were Monsters -->
-		<dc:subject id="subject-25">Science fiction -- Periodicals</dc:subject>
-		<dc:subject id="subject-26">Science fiction, American -- Periodicals</dc:subject>
+		<dc:subject id="subject-25">Science fiction--Periodicals</dc:subject>
+		<dc:subject id="subject-26">Science fiction, American--Periodicals</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
