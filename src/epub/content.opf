@@ -218,7 +218,7 @@
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<!-- The Devil's Asteroid -->
 		<dc:contributor id="transcriber-3">Graeme Mackreth</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Mackreth, Grame</meta>
+		<meta property="file-as" refines="#transcriber-3">Mackreth, Graeme</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<!-- All 10 stories -->
 		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
