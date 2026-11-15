@@ -103,18 +103,20 @@ ol ol{
 	margin-top: 0;
 }
 
-/* Format the signatures in the book contract, Black Drama ch. 13 */
-#the-black-drama-13 blockquote:first-of-type > footer{
-	display: table;
-	margin-left: auto;
-}
+@supports((display: table) and (display: table-row) and (display: table-cell)){
+	/* Format the signatures in the book contract, Black Drama ch. 13 */
+	#the-black-drama-13 blockquote:first-of-type > footer{
+		display: table;
+		margin-left: auto;
+	}
 
-#the-black-drama-13 blockquote:first-of-type > footer p{
-	display: table-row;
-}
+	#the-black-drama-13 blockquote:first-of-type > footer p{
+		display: table-row;
+	}
 
-#the-black-drama-13 blockquote:first-of-type > footer p:nth-child(n+2){
-	display: table-cell;
+	#the-black-drama-13 blockquote:first-of-type > footer p:nth-child(n+2){
+		display: table-cell;
+	}
 }
 
 #the-black-drama-13 blockquote:first-of-type > footer p:last-child{
